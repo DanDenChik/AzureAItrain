@@ -1,0 +1,10 @@
+{
+    "name": "Danial's Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
